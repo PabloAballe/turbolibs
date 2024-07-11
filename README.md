@@ -17,7 +17,7 @@ Welcome to Turbo Libraries! This monorepo is dedicated to providing high-perform
 
 ## 🌟 Overview
 
-SpeedOpt Libraries aim to deliver speed and efficiency in every aspect of web development, from UI components to CSS frameworks. Our goal is to help developers build fast, scalable, and maintainable applications with ease.
+Turbo Libraries aim to deliver speed and efficiency in every aspect of web development. Our goal is to help developers build fast, scalable, and maintainable applications with ease. Whether you need UI components, CSS frameworks, utility libraries, or any other type of development tool, Turbolibs has you covered.
 
 **Note:** The project is currently under active development. Stay tuned for updates!
 
@@ -27,8 +27,8 @@ SpeedOpt Libraries aim to deliver speed and efficiency in every aspect of web de
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js >= 14.x
-- npm >= 6.x or yarn >= 1.22.x
+- Node.js >= 22.x
+- npm >= 10.x or yarn >= v1.22.x
 
 ### Installation
 
@@ -59,9 +59,9 @@ To get started with our libraries, follow these steps:
 
 ## 📦 Current Libraries
 
-### @speedopt/react-components
+<!-- ### @speedopt/react-components
 
-A collection of high-performance React components designed for speed and efficiency.
+A collection of high-performance React components designed for speed and efficiency. -->
 
 ## 🔧 Development
 
